@@ -2,7 +2,7 @@
 
 ## What is SPLASH?
 
-[**S**]tandardized \
+[**S**]tandard \
 [**P**]attern \
 [**L**]anguage(s) for \
 [**A**]dvanced \
