@@ -4,7 +4,7 @@
 
 [**S**]tandard \
 [**P**]attern \
-[**L**]anguage(s) for \
+[**L**]ibrary for \
 [**A**]dvanced \
 [**S**]cience and \
 [**H**]ealthcare
